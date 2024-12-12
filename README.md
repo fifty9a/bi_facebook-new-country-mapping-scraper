@@ -7,7 +7,7 @@ Repo for scraping Facebook's mapping files for new countries
 ### Running the Scraper
 
 1. Open the `get_new_meta_mapping_files.ipynb` file and provide the script with the required params, to run the scrape.
-User guide can be found here: [https://fifty9a.atlassian.net/wiki/spaces/BIK/pages/edit-v2/616726529?draftShareId=d24eba9a-ce95-4008-a100-d3487d184f46#Adding-support-for-new-countries]
+User guide can be found here: [https://fifty9a.atlassian.net/wiki/spaces/BIK/pages/616726529/Meta+Audience+Scraper#Adding-support-for-new-countries]
 
 ### Current features
 
