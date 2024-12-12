@@ -1,5 +1,5 @@
 # Facebook-New-Country-Mapping-File-Scraper
-Repo for Interest scraping Facebook's mapping files for new countries
+Repo for scraping Facebook's mapping files for new countries
 
 ### Installing required dependencies 
 `pip install pandas`
